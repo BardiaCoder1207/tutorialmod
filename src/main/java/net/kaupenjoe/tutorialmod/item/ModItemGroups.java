@@ -3,6 +3,7 @@ package net.kaupenjoe.tutorialmod.item;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.kaupenjoe.tutorialmod.TutorialMod;
 import net.kaupenjoe.tutorialmod.block.ModBlocks;
+import net.kaupenjoe.tutorialmod.block.custom.MagicBlock;
 import net.kaupenjoe.tutorialmod.item.custom.ChiselItem;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -21,6 +22,8 @@ public class ModItemGroups {
                         entries.add(ModItems.RAW_PINK_GARNET);
 
                         entries.add(ModItems.CHISEL);
+                        entries.add(ModItems.CAULIFLOWER);
+                        entries.add(ModItems.STAR_LIGHT_ASHES);
                     }).build());
 
     public static final ItemGroup PINK_GARNET_BLOCKS_GROUP = Registry.register(Registries.ITEM_GROUP,
@@ -33,6 +36,8 @@ public class ModItemGroups {
 
                         entries.add(ModBlocks.PINK_GARNET_ORE);
                         entries.add(ModBlocks.PINK_GARNET_DEEPSLATE_ORE);
+
+                        entries.add(ModBlocks.MAGIC_BLOCK);
 
                     }).build());
 

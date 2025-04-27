@@ -2,14 +2,21 @@
   "item.tutorialmod.pink_garnet": "Pink Garnet",
   "item.tutorialmod.raw_pink_garnet": "Raw Pink Garnet",
   "item.tutorialmod.chisel": "Chisel",
+  "item.tutorialmod.cauliflower": "Cauliflower",
+  "item.tutorialmod.star_light_ashes": "Star Light Ashes",
 
   "block.tutorialmod.pink_garnet_block": "Block of Pink Garnet",
   "block.tutorialmod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
 
   "block.tutorialmod.pink_garnet_ore": "Pink Garnet Ore",
   "block.tutorialmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
-
+  "block.tutorialmod.magic_block": "Magic Block",
 
   "itemgroup.tutorialmod.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.tutorialmod.pink_garnet_blocks": "Pink Garnet Blocks"
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Pink Garnet Blocks",
+
+  "tooltip.tutorialmod.magic_block.tooltip": "This is a very, very §r§9Magical §r§9Block",
+
+  "tooltip.tutorialmod.chisel": "Hold §l§n§vShift for more Information",
+  "tooltip.tutorialmod.chisel.shift_down":"This is my first custom Item I'm adding"
 }
